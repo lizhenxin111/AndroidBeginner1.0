@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <SwitchPreference
+        android:title="@string/pref_title_nightmod"
+        android:key="@string/pref_key_nightmod"
+        android:defaultValue="@string/pref_default_nightmod" />
+
+    <Preference android:title="检查更新"
+        android:key="checkUpdate" />
+
+</PreferenceScreen>

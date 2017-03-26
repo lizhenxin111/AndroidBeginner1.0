@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/menu_group_download">
+        <item
+            android:id="@+id/action_download"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_download"
+            android:title="@string/action_settings"
+            app:showAsAction="always" />
+    </group>
+
+    <group android:id="@+id/menu_group_delete">
+        <item
+            android:id="@+id/action_delete"
+            android:orderInCategory="100"
+            android:icon="@drawable/ic_delete"
+            android:title="@string/action_settings"
+            app:showAsAction="always" />
+    </group>
+</menu>

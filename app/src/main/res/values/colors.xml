@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorListBac">#fff</color>
+    <color name="colorListItemBac">#fff</color>
+    <color name="colorDrawerBac">#fff</color>
+    <color name="colorText">#555</color>
+    <color name="colorWebViewBac">#fff</color>
+
+    <color name="side_nav_startColor">#81C784</color>
+    <color name="side_nav_centerColor">#4CAF50</color>
+    <color name="side_nav_endColor">#2E7D32</color>
+
+</resources>
